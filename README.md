@@ -35,12 +35,12 @@ A visually stunning, responsive weather dashboard featuring a **Glassmorphism** 
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/weather-app.git
+    git clone https://github.com/Ajith-1809/Weather-app.git
     ```
 
 2.  **Navigate to the project directory**
     ```bash
-    cd weather-app
+    cd Weather-app
     ```
 
 3.  **Open the application**
@@ -61,13 +61,13 @@ weather-app/
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="Screenshot (21).png" alt="Weather App Screenshot 1" width="45%">
+  <img src="https://github.com/Ajith-1809/Wheather-app/blob/main/screenshots/Screenshot%20(21).png" alt="Weather App Screenshot 1" width="45%">
   &nbsp;
-  <img src="Screenshot (22).png" alt="Weather App Screenshot 2" width="45%">
+  <img src="https://github.com/Ajith-1809/Wheather-app/blob/main/screenshots/Screenshot%20(22).png" alt="Weather App Screenshot 2" width="45%">
   <br><br>
-  <img src="Screenshot (23).png" alt="Weather App Screenshot 3" width="45%">
+  <img src="https://github.com/Ajith-1809/Wheather-app/blob/main/screenshots/Screenshot%20(23).png" alt="Weather App Screenshot 3" width="45%">
   &nbsp;
-  <img src="Screenshot (24).png" alt="Weather App Screenshot 4" width="45%">
+  <img src="https://github.com/Ajith-1809/Wheather-app/blob/main/screenshots/Screenshot%20(24).png" alt="Weather App Screenshot 4" width="45%">
 </div>
 
 ## 🤝 Contributing
